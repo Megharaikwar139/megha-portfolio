@@ -1,0 +1,112 @@
+[
+  {
+    "id": "namami",
+    "name": "Namami IT Software Solutions",
+    "url": "https://namami.co.in/",
+    "cat": "Corporate / PHP / CodeIgniter",
+    "status": 200,
+    "title": "Best Software Development Company in Bhopal | Namami IT Software Solutions",
+    "desc": "Namami Software Company is a provider of IT solutions, offering a range of services designed to meet the technological needs of businesses and organizations.",
+    "accessible": true
+  },
+  {
+    "id": "sameka",
+    "name": "Sameka Health",
+    "url": "https://samekahealth.com/",
+    "cat": "Shopify / eCommerce",
+    "status": 200,
+    "title": "Plant Protein &amp; Wellness Supplements | Sameka Health",
+    "desc": "Shop plant-based protein and wellness supplements for men and women at Sameka Health. Clean nutrition designed for everyday health, recovery and fitness.",
+    "accessible": true
+  },
+  {
+    "id": "blacktiger",
+    "name": "Black Tiger Events",
+    "url": "https://blacktigerevents.in/",
+    "cat": "WordPress / Event Management",
+    "status": 200,
+    "title": "blacktigerevents.in",
+    "desc": "",
+    "accessible": true
+  },
+  {
+    "id": "viralgarage",
+    "name": "The Viral Garage",
+    "url": "https://theviralgarage.com/",
+    "cat": "Digital Agency",
+    "status": 200,
+    "title": "Digital Agency",
+    "desc": "",
+    "accessible": true
+  },
+  {
+    "id": "iskcon",
+    "name": "ISKCON Bareilly",
+    "url": "https://iskconbareilly.com/",
+    "cat": "Organization / Community",
+    "status": 200,
+    "title": "Home - Iskcon Bareilly",
+    "desc": "₹500",
+    "accessible": true
+  },
+  {
+    "id": "prakruti",
+    "name": "Prakruti Media Shala",
+    "url": "https://prakrutishala.org/",
+    "cat": "Educational / Interactive",
+    "status": 200,
+    "title": "Prakruti Media shala",
+    "desc": "",
+    "accessible": true
+  },
+  {
+    "id": "ramangreens",
+    "name": "Raman Greens",
+    "url": "https://ramangreens.com/",
+    "cat": "Food Brand / eCommerce",
+    "status": 200,
+    "title": "Raman Greens | Food Manufacturer, Wholesaler &amp; Online Store",
+    "desc": "Raman Greens is a trusted food products manufacturer and retailer in India, offering a wide range of healthy snacks, cookies, and quality food products. Explore our premium range crafted with care and order online for delicious and nutritious choices.",
+    "accessible": true
+  },
+  {
+    "id": "dairy-demo",
+    "name": "Dairy Demo",
+    "url": "https://megharaikwar139.github.io/dairy-demo/",
+    "cat": "Frontend / Dairy Showcase",
+    "status": 200,
+    "title": "Dairy Classics — Premium Artisanal Ice Cream",
+    "desc": "Experience pure artisanal indulgence with Dairy Classics. Freshly churned waffle cones, chocolate crunch bars, ruby velvet sticks, and gourmet gelato cakes.",
+    "accessible": true
+  },
+  {
+    "id": "dairy-classics",
+    "name": "Dairy Classics",
+    "url": "https://megharaikwar139.github.io/dairy-classics/",
+    "cat": "Frontend / Dairy Brand",
+    "status": 200,
+    "title": "Dairy Classic | Pure Artisanal Joy Since 1996",
+    "desc": "100% single-origin farm milk, slow-churned artisanal ice cream in Uzbekistan since 1996. Discover Dairy Classic cones, sticks, cups, biscuits, cassattas and tubs.",
+    "accessible": true
+  },
+  {
+    "id": "tramadol",
+    "name": "Tramadol50mg",
+    "url": "https://tramadol50mg.store/",
+    "cat": "Web Development / eCommerce",
+    "status": 200,
+    "title": "Tramadol 50 mg Pharmacy Guide | FDA-Approved Uses &amp; Safety",
+    "desc": "Explore Tramadol 50 mg at a trusted pharmacy. Get FDA-approved medication facts, uses, dosage guidance, safety, side effects, and risks.",
+    "accessible": true
+  },
+  {
+    "id": "buyxanax",
+    "name": "BuyXanaxOnline",
+    "url": "https://buyxanaxonline.store/",
+    "cat": "Web Development / eCommerce",
+    "status": 200,
+    "title": "Buy Xanax guide | Buy Xanax 2mg Online | Trusted USA Pharmacy",
+    "desc": "Buy Xanax 2mg online from a trusted USA pharmacy. Explore convenient online ordering, product details, and reliable pharmacy information.",
+    "accessible": true
+  }
+]
